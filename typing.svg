@@ -1,0 +1,98 @@
+```svg
+<svg
+  width="800"
+  height="120"
+  viewBox="0 0 800 120"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Learn Build Break Fix Repeat"
+>
+
+  <defs>
+
+    <!-- Máscara responsável pelo efeito de digitação -->
+    <clipPath id="typing">
+      <rect x="0" y="0" width="0" height="120">
+        <animate
+          attributeName="width"
+          values="0;0;650;650;0;0"
+          keyTimes="0;0.08;0.58;0.72;0.86;1"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+  </defs>
+
+  <!-- Fundo do terminal -->
+  <rect
+    x="0"
+    y="0"
+    width="800"
+    height="120"
+    rx="14"
+    fill="#0d1117"
+  />
+
+  <!-- Barra superior -->
+  <circle cx="25" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="22" r="6" fill="#27c93f"/>
+
+  <!-- Texto -->
+  <g clip-path="url(#typing)">
+
+    <!-- Prompt -->
+    <text
+      x="30"
+      y="75"
+      font-family="monospace"
+      font-size="22"
+      font-weight="700"
+      fill="#58a6ff"
+    >&gt;</text>
+
+    <!-- Frase -->
+    <text
+      x="58"
+      y="75"
+      font-family="monospace"
+      font-size="22"
+      fill="#ffffff"
+    >Learn → Build → Break → Fix → Repeat.</text>
+
+  </g>
+
+  <!-- Cursor -->
+  <rect
+    x="58"
+    y="53"
+    width="12"
+    height="27"
+    rx="1"
+    fill="#ffffff"
+  >
+
+    <!-- Movimento do cursor -->
+    <animate
+      attributeName="x"
+      values="58;58;690;690;58"
+      keyTimes="0;0.08;0.58;0.72;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+
+    <!-- Piscar -->
+    <animate
+      attributeName="opacity"
+      values="1;0;1;0;1"
+      keyTimes="0;0.25;0.5;0.75;1"
+      dur="0.8s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+</svg>
+```
