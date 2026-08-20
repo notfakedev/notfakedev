@@ -1,7 +1,8 @@
 <div align="center">
-  <a
-   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2p&pause=1000&color=F7F7F7&center=true&width=435&lines=hey%2C+wsp%2C+I%C2%B4m+Luis+💻" alt="Typing SVG" />
-  </a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2p&duration=5001&pause=1000&color=F7F7F7&center=true&width=435&lines=hey+wsp%2C+i%C2%B4m+lu%C3%ADs%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 </div>
 
 <div align="center">
@@ -112,6 +113,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notfakedev/notfakedev/output/github-contribution-grid-snake.svg">
 </picture>
 </picture>
+<<<<<<< HEAD
 
 <!--
 **notfakedev/notfakedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -127,3 +129,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+>>>>>>> 11701b1 (teste animações perfil)
