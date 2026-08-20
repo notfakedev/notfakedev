@@ -20,7 +20,7 @@
 
 **Ainda estou no processo de construção da minha carreira como desenvolvedor, mas acredito que cada linha de código, cada erro e cada projeto fazem parte da evolução.**
 
-<svg width="500" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg"> <rect width="700" height="100" rx="12" fill="#000205" /> <!-- Terminal dots --> <circle cx="25" cy="22" r="5" fill="#ff5f56"/> <circle cx="42" cy="22" r="5" fill="#ffbd2e"/> <circle cx="59" cy="22" r="5" fill="#27c93f"/> <!-- Prompt --> <text x="25" y="65" fill="#58a6ff" font-family="monospace" font-size="21" font-weight="bold"> &gt; </text> <!-- Animated text --> <text x="48" y="65" fill="#ffffff" font-family="monospace" font-size="20"> <tspan> Learn → Build → Break → Fix → Repeat. </tspan> <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.05;0.8;0.95;1" dur="8s" repeatCount="indefinite" /> </text> <!-- Blinking cursor --> <rect x="535" y="45" width="10" height="25" fill="#ffffff"> <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" /> </rect> </svg>
+<img src="./assets/typing.svg" width="700">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -107,13 +107,13 @@
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notfakedev/notfakedev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notfakedev/notfakedev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notfakedev/notfakedev/output/github-contribution-grid-snake.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notfakedev/notfakedev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notfakedev/notfakedev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notfakedev/notfakedev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-</picture>
-<<<<<<< HEAD
+
+###
 
 <!--
 **notfakedev/notfakedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -127,7 +127,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
->>>>>>> 11701b1 (teste animações perfil)
+- ⚡ Fun fact: .
